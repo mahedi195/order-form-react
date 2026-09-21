@@ -4,9 +4,9 @@
 
 - various jsx is used to make form :
  
-        - Text input → name
+        - Text input -> name
   
-        - Number input → phone, age, quantity
+        - Number input -> phone, age, quantity
   
         - Email-> Email
   
